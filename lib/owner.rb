@@ -65,8 +65,6 @@ class Owner
     dogs.collect do |dog|
       dog.mood = "nervous"
     end
-
-    end
   end
 
 
