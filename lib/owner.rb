@@ -51,5 +51,5 @@ class Owner
       dog.mood = "happy"
     end
   end
-  
+
 end
